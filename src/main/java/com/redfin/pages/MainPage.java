@@ -27,4 +27,3 @@ public class MainPage {
         searchButtonElement.click();
     }
 }
-
